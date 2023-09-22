@@ -1,0 +1,5 @@
+﻿  Jeu_Tableau.cpp
+C:\Users\maxen\OneDrive\Bureau\C++\Jeu_Tableau\Jeu_Tableau\Jeu_Tableau.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PlayerInput.cpp
+  Generating Code...
+  Jeu_Tableau.vcxproj -> C:\Users\maxen\OneDrive\Bureau\C++\Jeu_Tableau\x64\Debug\Jeu_Tableau.exe
